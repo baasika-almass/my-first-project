@@ -11,3 +11,20 @@ A simple Python terminal calculator that performs basic arithmetic operations.
 ```bash
 python calculator.py
 ```
+## Example
+SIMPLE CALCULATOR
+Enter first number: 10
+Enter second number: 5
+Choose operation:
+
+Addition
+Subtraction
+Multiplication
+Division
+Enter choice (1/2/3/4): 1
+Result = 15.0
+## What I Learned
+- Taking user input with input()
+- Converting types with float()
+- if/elif/else conditions
+- Handling edge cases (division by zero)
